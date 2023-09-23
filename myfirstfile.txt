@@ -1,1 +1,13 @@
 this is my first file.
+
+
+Git clone <url>
+Cd <repo name>
+
+
+Code .
+Create a file with some text
+git add .
+git commit -m "your commit messege"
+git push
+
